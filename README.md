@@ -1,5 +1,4 @@
 ## Project Title
-Give your project a short, clear title (e.g., "Side Quest Week 1: Interactive Shape Switcher").
 GBDA 302 A2 : NekoBeat
 
 ---
