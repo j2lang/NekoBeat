@@ -20,7 +20,7 @@ const glowMaxAlpha = 120;
 let paused = false;
 let bgMusic; // background music
 
-const synthLow = new Audio("assets/audio/synthLow.wav");
+const synthLow = new Audio("assets/audio/beep.wav");
 const synthHigh = new Audio("assets/audio/synthHigh.wav");
 
 /* ---------- Level 1 timing / random rectangles ---------- */
@@ -52,8 +52,10 @@ function setup() {
   bgMusic = document.getElementById("bgMusic");
   bgMusic.loop = true;
   bgMusic.volume = 0.5;
+  
   // Load key sound effects
-
+  synthLow.volume = 0.5; // 50%
+  
   startLevel(level);
 
   // Home Play button

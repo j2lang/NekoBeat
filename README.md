@@ -1,5 +1,5 @@
 ## Project Title
-GBDA 302 A2 : NekoBeat
+GBDA 302 A2: NekoBeat
 ---
 ## Group Number (only for group work)
 7B
@@ -135,16 +135,15 @@ Include in-text citations for all assets that are not your own, and connect them
 > - `assets/image/bunny.png` (original artwork created in Piskel)
 > - `assets/image/kitty.png` (original artwork created in Piskel)
 > - `assets/audio/chill.mp3` (original composition created in Soundtrap)
-> - `assets/audio/synthHigh.wav` [10]
-> - `assets/audio/synthLow.wav` [10]
+> - `assets/audio/beeph.wav` [10]
 
 ---
 ## References
 Connect your in-text citations to the reference list along with additional sources that informed your design but were not directly cited. Provide all citations using the ACM reference format. 
 
 [9] Charity, AbleGamers. “Video Games and Disability Representation.” The AbleGamers Charity, 2023. https://ablegamers.org/video-games-disability-representation/.
-[10] Epidemic Sound. n.d. "Synth Sound Effects Collection."  
-Available at: https://www.epidemicsound.com/sound-effects/tracks/281555b2-2dbd-43a0-9d44-16421f51e992/.
+[10] Epidemic Sound. n.d. "User Interface, Beep, Error Tone, Soft."  
+Available at: https://www.epidemicsound.com/sound-effects/tracks/17f72d25-b4a6-4d8f-addc-f446ee8b3cb7/.
 [6] Fox, Michael J. “The Michael J. Fox Foundation for Parkinson’s Research.” The Michael J. Fox Foundation for Parkinson’s Research | Parkinson’s Disease, 2019. https://www.michaeljfox.org/.
 [7] González, Julia, Leya George, Lidia Miteva, and Aneesha Singh. “Developing Empathy towards Experiences of Invisible Disabilities through Games.” In EmpathiCH ’23: Proceedings of the 2nd Empathy-Centric Design Workshop, 1–8. University College London, 2023. https://doi.org/10.1145/3588967.3588976.
 [8] Karen Anne Cochrane and David Han. 2026. Week 4 - Part 1. GBDA302 Course Slides. University of Waterloo, Stratford, Canada.

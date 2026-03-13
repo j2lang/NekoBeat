@@ -140,7 +140,7 @@ canvas {
   pointer-events: none;
 }
 
-#leftImg { right: 500px; }
+#leftImg { right: 530px; }
 #rightImg { left: 500px; }
 
 /* Hit feedback text */
