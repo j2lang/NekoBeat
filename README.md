@@ -1,5 +1,5 @@
 ## Project Title
-GBDA 302 A2: NekoBeat
+GBDA 302 A2 Midterm Game: NekoBeat
 ---
 ## Group Number (only for group work)
 7B
